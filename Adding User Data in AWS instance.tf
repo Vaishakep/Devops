@@ -9,7 +9,7 @@ echo "<h1><center>Deployed From Terraform</center></h1>" > /var/www/html/index.h
 
 
 --------------------------
-$cat code.tf
+:~# cat code.tf
 
 provider "aws" {
     access_key = "AKIAxxxxxxxxxxP"
